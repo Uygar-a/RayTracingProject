@@ -1,3 +1,3 @@
 # RayTracingProject
 
-A simple ray tracing student project which has been done as part of Computer Graphics Course at Uni Freiburg.
+A simple ray tracing student project done as part of the Computer Graphics Lab Course at Uni Freiburg.
